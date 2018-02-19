@@ -14,4 +14,8 @@ public class MainActivity extends AppCompatActivity {
     protected void xyz (){
 
     }
+
+    private void abc(){
+        System.out.print("Hello world...");
+    }
 }
